@@ -1,1 +1,1 @@
-requires 'Text::Soundex'
+requires 'Text::Soundex';
