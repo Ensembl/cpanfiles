@@ -1,0 +1,12 @@
+requires 'Bit::Vector';
+requires 'DBI';
+requires 'DBD::SQLite';
+requires 'File::Which';
+requires 'IO::All';
+requires 'IO::Prompt';
+requires 'Inline::C';
+requires 'DBD::Pg';
+requires 'Perl::Unsafe::Signals';
+requires 'PerlIO::gzip';
+requires 'forks';
+requires 'forks:::shared';
