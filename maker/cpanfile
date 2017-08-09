@@ -9,4 +9,4 @@ requires 'DBD::Pg';
 requires 'Perl::Unsafe::Signals';
 requires 'PerlIO::gzip';
 requires 'forks';
-requires 'forks:::shared';
+requires 'forks::shared';
