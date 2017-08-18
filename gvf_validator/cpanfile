@@ -1,0 +1,3 @@
+requires 'List::Util';
+requires 'List::MoreUtils';
+requires 'List::MoreUtils::XS';
