@@ -1,0 +1,6 @@
+requires 'Devel::Cover';
+requires 'Devel::Cycle';
+requires 'Devel::Leak';
+requires 'Devel::NYTProf';
+requires 'Devel::Peek''
+requires 'Devel::Size';
