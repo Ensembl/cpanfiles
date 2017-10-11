@@ -1,0 +1,75 @@
+# Basic dependencies
+requires 'YAML';
+requires 'YAML::XS';
+requires 'Log::Log4perl';
+requires 'XML::Parser';
+requires 'XML::SAX';
+requires 'JSON';
+requires 'JSON::XS';
+requires 'DBI';
+requires 'DBD::mysql';
+requires 'LWP::Protocol::https';
+requires 'BSD::Resource';
+requires 'Linux::Pid';
+
+# Ensembl dependencies
+requires 'HTTP::Tiny';
+requires 'Compress::Bzip2';
+requires 'List::MoreUtils';
+requires 'Parse::RecDescent';
+requires 'Compress::Bzip2';
+requires 'Sys::Hostname::Long';
+requires 'Hash::Merge';
+requires 'GD';
+requires 'HTML::Entities';
+requires 'URI::Escape';
+requires 'Rose::DB::Object';
+requires 'MIME::Types';
+requires 'HTML::TreeBuilder';
+requires 'Image::Size';
+requires 'RTF::Writer';
+requires 'Text::CSV';
+requires 'Class::Accessor';
+requires 'Archive::Zip';
+requires 'XML::Writer';
+requires 'XML::RSS';
+requires 'CGI';
+requires 'PDF::API2';
+requires 'URI::Find';
+requires 'Imager';
+requires 'Inline';
+requires 'Geo::IP';
+requires 'Inline::C';
+requires 'Math::Round';
+requires 'IPC::System::Simple';
+requires 'Hash::Union';
+requires 'PerlIO::gzip';
+requires 'Text::Soundex';
+requires 'Search::Sitemap';
+
+#BioMart dependencies
+requires 'Spreadsheet::WriteExcel';
+requires 'CGI::Session';
+requires 'Template';
+requires 'Number::Format';
+requires 'Template::Constants';
+requires 'OLE::Storage_Lite';
+requires 'Spreadsheet::WriteExcel::Big';
+requires 'Readonly';
+requires 'Template::Plugin::Number::Format';
+requires 'XML::DOM';
+requires 'Mail::Mailer';
+requires 'XML::Simple';
+
+# BigFiles
+requires 'Bio::DB::HTS';
+requires 'Bio::DB::BigFile';
+
+# Memcached
+requires 'Cache::Memcached';
+requires 'String::CRC32';
+
+# Production scripts
+requires 'Parallel::Forker';
+requires 'Template';
+requires 'Rex';
