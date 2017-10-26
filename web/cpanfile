@@ -13,6 +13,7 @@ requires 'BSD::Resource';
 requires 'Linux::Pid';
 
 # Ensembl dependencies
+requires 'HTML::Formatter';
 requires 'HTTP::Tiny';
 requires 'Compress::Bzip2';
 requires 'List::MoreUtils';
