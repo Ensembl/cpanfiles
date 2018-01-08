@@ -4,3 +4,4 @@ requires 'Devel::Leak';
 requires 'Devel::NYTProf';
 requires 'Devel::Peek';
 requires 'Devel::Size';
+requires 'Memory::Usage';
