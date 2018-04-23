@@ -1,0 +1,2 @@
+requires 'MooseX::ClassAttribute';
+requires 'MooseX::Params::Validate';
