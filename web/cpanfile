@@ -46,8 +46,8 @@ requires 'Hash::Union';
 requires 'PerlIO::gzip';
 requires 'Text::Soundex';
 requires 'Search::Sitemap';
-requires 'Set::IntervalTree'
-requires 'Template::Mustache'
+requires 'Set::IntervalTree';
+requires 'Template::Mustache';
 
 #BioMart dependencies
 requires 'Spreadsheet::WriteExcel';
