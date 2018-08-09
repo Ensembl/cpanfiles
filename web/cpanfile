@@ -18,7 +18,6 @@ requires 'HTTP::Tiny';
 requires 'Compress::Bzip2';
 requires 'List::MoreUtils';
 requires 'Parse::RecDescent';
-requires 'Compress::Bzip2';
 requires 'Sys::Hostname::Long';
 requires 'Hash::Merge';
 requires 'GD';
