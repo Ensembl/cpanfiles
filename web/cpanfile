@@ -75,6 +75,7 @@ requires 'String::CRC32';
 requires 'Parallel::Forker';
 requires 'Template';
 requires 'Rex';
+requires 'Devel::Cycle';
 
 
 # Parasite dependencies
