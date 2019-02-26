@@ -48,6 +48,7 @@ requires 'Text::Soundex';
 requires 'Search::Sitemap';
 requires 'Set::IntervalTree';
 requires 'Template::Mustache';
+requires 'Data::Page';
 
 #BioMart dependencies
 requires 'Spreadsheet::WriteExcel';
