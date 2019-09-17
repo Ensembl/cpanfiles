@@ -50,6 +50,9 @@ requires 'Set::IntervalTree';
 requires 'Template::Mustache';
 requires 'Data::Page';
 
+# Ensembl testing dependencies
+requires 'Test::WWW::Selenium';
+
 #BioMart dependencies
 requires 'Spreadsheet::WriteExcel';
 requires 'CGI::Session';
