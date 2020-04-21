@@ -49,6 +49,7 @@ requires 'Search::Sitemap';
 requires 'Set::IntervalTree';
 requires 'Template::Mustache';
 requires 'Data::Page';
+requires 'Text::Markdown';
 
 # Ensembl testing dependencies
 requires 'Test::WWW::Selenium';
