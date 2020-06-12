@@ -49,6 +49,11 @@ requires 'Search::Sitemap';
 requires 'Set::IntervalTree';
 requires 'Template::Mustache';
 requires 'Data::Page';
+requires 'Text::Markdown';
+requires 'Text::MultiMarkdown';
+
+# Ensembl testing dependencies
+requires 'Test::WWW::Selenium';
 
 #BioMart dependencies
 requires 'Spreadsheet::WriteExcel';
