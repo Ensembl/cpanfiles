@@ -2,3 +2,4 @@ requires 'MooseX::ClassAttribute';
 requires 'MooseX::Params::Validate';
 requires 'Algorithm::Diff';
 requires 'Tie::IxHash';
+requires 'Text::Levenshtein::Damerau::XS';
