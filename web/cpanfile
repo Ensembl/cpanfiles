@@ -88,3 +88,5 @@ requires 'Devel::Cycle';
 requires 'DateTime::Format::ISO8601';
 requires 'Data::UUID';
 requires 'Daemon::Control';
+requires 'Catalyst::Runtime';
+requires 'Starman';
