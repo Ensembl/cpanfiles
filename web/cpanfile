@@ -87,3 +87,17 @@ requires 'Devel::Cycle';
 # Parasite dependencies
 requires 'DateTime::Format::ISO8601';
 requires 'Data::UUID';
+requires 'Daemon::Control';
+requires 'Starman';
+requires 'Catalyst::Runtime';
+requires 'Catalyst::Plugin::Cache';
+requires 'Catalyst::Action::REST';
+requires 'Catalyst::Action::RenderView';
+requires 'Catalyst::Plugin::Static::Simple';
+requires 'Catalyst::Plugin::ConfigLoader';
+requires 'Catalyst::Component::InstancePerContext';
+requires 'Catalyst::View::TT';
+requires 'Config::General';
+requires 'CHI';
+requires 'Plack::Middleware::SizeLimit';
+requires 'Plack::Middleware::CrossOrigin';
