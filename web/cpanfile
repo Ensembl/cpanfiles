@@ -51,6 +51,7 @@ requires 'Template::Mustache';
 requires 'Data::Page';
 requires 'Text::Markdown';
 requires 'Text::MultiMarkdown';
+requires 'Proc::Daemon', '0.23';
 
 # Ensembl testing dependencies
 requires 'Test::WWW::Selenium';
